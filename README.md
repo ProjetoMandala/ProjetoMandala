@@ -1,5 +1,7 @@
 ### E aí, tudo bem? 👋
 
+O Projeto Mandala é uma rede social criada a partir do ODS 11, com foco na conexão entre pessoas com deficiência, possibilitando troca de informações para contribuir na construção de cidades mais inclusivas para todos.
+
  ##
  
   <div>
