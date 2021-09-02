@@ -19,5 +19,30 @@ O Projeto Mandala é uma rede social criada a partir do ODS 11, com foco na cone
   <img align="center" alt="Mandala-Java" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Mandala-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
-  
   ##
+ 
+ ### Amanda Corrêa
+  ##
+  <a href = "https://github.com/CorreaCoding"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/correacoding/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ### Henryk Michalicki
+  ##
+  <a href = "https://github.com/HenrykMichalicki"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/henrykmichalicki/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ### Jessica F. Oliveira
+  ##
+  <a href = "https://github.com/JessyOliver"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/jessica-f-oliveira-330b091a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ### Juan Barros
+  ##
+  <a href = "https://github.com/juanhdev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/juanhlbarros/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ### Juan Sapiezcinski
+  ##
+  <a href = "https://github.com/SPZCNSK"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/juan-sapiezcinski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
