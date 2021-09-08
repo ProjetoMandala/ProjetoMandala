@@ -19,7 +19,6 @@ O Projeto Mandala é uma rede social criada a partir do ODS 11, com foco na cone
   <img align="center" alt="Mandala-Java" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Mandala-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
-  ##
  
  ### Amanda Corrêa
   ##
